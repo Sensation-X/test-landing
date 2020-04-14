@@ -1,0 +1,123 @@
+.about {
+    height: 478px;
+    background: #5A98D0;
+}
+.about-wrap {
+    display: flex;
+    padding-top: 97px;
+    opacity: 0.99;
+    margin-bottom: 50px;
+}
+.about-contacts {
+    display: flex;
+    flex-direction: column;
+    margin-right: 100px;
+}
+.about-contacts_logo {
+    font-size: 28px;
+    line-height: 46px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 188px;
+}
+.about-contacts_text {
+    width: 299px;
+    display: flex;
+    font-family: Gilroy;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+.about-contacts_text-title {
+    margin-right: 16px;
+}
+.about-contacts_tell, .about-contacts_tell a {
+    width: 299px;
+    display: flex;
+    font-family: Gilroy;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    text-decoration: none;
+    align-items: center;
+}
+.about-contacts_tell-title {
+    margin-right: 16px;
+}
+.about-contacts_mail, .about-contacts_mail a {
+    width: 299px;
+    display: flex;
+    font-family: Gilroy;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    text-decoration: none;
+    align-items: center;
+}
+.about-contacts_mail-title {
+    margin-right: 16px;
+}
+.about-us {
+    display: flex;
+    flex-direction: column;
+    margin-right: 77px;
+}
+.about-us_title{
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    margin-bottom: 32px;
+    margin-top: 0;
+}
+.about-us a {
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-bottom: 16px;
+}
+.about-social {
+    display: flex;
+    flex-direction: column;
+
+}
+.about-social_title{
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    margin-bottom: 32px;
+    margin-top: 0;
+}
+.about-social a{
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-bottom: 16px;
+}
+.about::before {
+    content: '';
+    background: #316099;
+    position: absolute;
+    width: 95%;
+    height: 478px;
+}
+.about-info {
+    width: 288px;
+    left: 213px;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    opacity: 0.4;
+}

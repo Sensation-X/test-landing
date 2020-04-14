@@ -1,0 +1,78 @@
+.clients {
+    background: #5A98D0;
+    border-radius: 200px 0px 0px 0px;
+    height: 680px;
+    margin-top: 110px;
+}
+.clients-wrap {
+    display: flex;
+    align-items: center;
+    margin-bottom: 35px;
+    padding-top: 66px;
+}
+.clients-title {
+    font-size: 36px;
+    line-height: 46px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    width: 234px;
+    margin-right: 96px;
+}
+.clients-subtitle {
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    opacity: 0.6;
+    width: 540px;
+}
+.clients-logo {
+    width: 235px;
+    height: 128px;
+    display: flex;
+}
+.clients-logo_name {
+    font-size: 20px;
+    line-height: 46px;
+    letter-spacing: 0.02em;
+    color: #F2F2F2;
+    text-transform: uppercase;
+    margin: auto;
+}
+.clients-logo_wrap {
+    display: inline-flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.logo-one {
+    border-right: 1px solid #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+}
+.logo-two {
+    border-right: 1px solid #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+}
+.logo-three {
+    border-right: 1px solid #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+}
+.logo-four {
+    
+    border-bottom: 1px solid #FFFFFF;
+}
+.logo-five {
+    border-right: 1px solid #FFFFFF;
+
+}
+.logo-six {
+    border-right: 1px solid #FFFFFF;
+
+}
+.logo-seven {
+    border-right: 1px solid #FFFFFF;
+ 
+}
+.logo-more {
+    background: #1F3F68;
+    opacity: 0.2;
+}
